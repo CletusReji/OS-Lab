@@ -1,1 +1,6 @@
 *.exe
+pid
+wait
+hierarchy
+list
+copyfile
