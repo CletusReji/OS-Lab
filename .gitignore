@@ -4,6 +4,10 @@ wait
 hierarchy
 list
 copyfile
+fcfs
 npsjf
+pprio
+rrobin
 tempCodeRunnerFile
-tempCodeRunnerFile.py
+tempCodeRunnerFile.c
+tempCodeRunnerFile.sh
