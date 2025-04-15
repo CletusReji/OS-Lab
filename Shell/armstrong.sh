@@ -2,7 +2,7 @@ echo enter a number
 read n
 a=$n
 res=0
-while [ $n -gt 0 ]; do
+while [ $a -gt 0 ]; do
     c=$(expr $a % 10)
     mul=$(expr $c \* $c \* $c)
     res=$(expr $res + $mul)

@@ -9,7 +9,7 @@ while [ $a -gt 0 ]; do
     a=$(expr $a / 10)
 done
 if [ $num -eq $res ]; then
-    echo number is palindrome
+    echo number is a palindrome
 else
-    echo number is not palindrome
+    echo number is not a palindrome
 fi
